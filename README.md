@@ -1,5 +1,5 @@
 # telegram-data-eda-css
-# Telegram Dataset Exploratory Data Analysis for Computational Science course (2024)
+# Telegram Dataset Exploratory Data Analysis for Computational Social Science course (2024)
 
 The aim of this project is to explore behavioral patterns from telegram messages, make data visualization and conclusions. 
 Technologies used include NLP, sentiment analysis with 
